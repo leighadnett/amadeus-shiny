@@ -1,0 +1,13 @@
+name: eco_shiny
+title: eco_shiny
+username:
+account: amadeus-capital
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4338781
+bundleId: 4773842
+url: https://amadeus-capital.shinyapps.io/eco_shiny/
+when: 1625071758.90579
+lastSyncTime: 1625071758.90579
+asMultiple: FALSE
+asStatic: FALSE
